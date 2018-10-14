@@ -34,7 +34,7 @@ Conferences often publish their proceedings or make presentations/short-/long-pa
 
 ---
 
-## Strategize and Search
+### Strategize and Search
 
 @ul 
 
@@ -46,12 +46,23 @@ Conferences often publish their proceedings or make presentations/short-/long-pa
 
 @ulend
 
-Note: 1. Cast a wide net first and then refine, e.g., broad and shallow vs. narrow and deep.
+Note: 
+
+1. Cast a wide net first and then refine, e.g., broad and shallow vs. narrow and deep.
 
 2. Your initial exploration phase may be painful. Avoid the urge to *pre-crastinate*.
 3. Your initial ideas should be conceptual, theoretical, high-level
 4. Look for thematic trends in seemingly disparate or unrelated topics
 5. Reduce these themes into a set of core vocabulary terms--these will become your search keywords
+
++++
+
+### Use references to your advantage
+
+@ul
+
+- Works cited = more articles for you
+- Search the works of a single author
 
 +++
 
@@ -64,15 +75,69 @@ Note: 1. Cast a wide net first and then refine, e.g., broad and shallow vs. narr
 @ulend
     @ul
 
-    - Record the terms you have searched with
-    - Record the database/platform you performed the search
-    - Record the relevant results
+    - Search terms
+    - Databases/platforms searched
+    - Relevant results
 
     @ulend
 @ul
-- Reusing data? Cite it like any other academic source
+- Reusing data? Cite it!
 
 @ulend
+
+---
+
+### Where to search
+
+@ul
+
+- Library Catalogue (OCLC WorldCat)
+- [The Digital Repository at the University of Maryland (DRUM)](https://www.drum.lib.umd.edu)
+- Search specific indexes/databases/publishers
+
+@ulend
+    @ul
+
+    - [Design & Applied Arts Index]
+    - [ACM Digital Library](https://dl-acm-org.proxy-um.researchport.umd.edu/)
+    - Scopus
+    - [Multidisciplinary Digital Publishing Institute](https://www.mdpi.com)
+
+    @ulend
+
++++
+
+### Where to search
+
+@ul
+
+- Search specific publications
+
+@ulend
+
+    @ul
+
+    - [The Harvard Business Review](http://web.b.ebscohost.com.proxy-um.researchport.umd.edu/ehost/command/detail?vid=0&sid=467fe51a-4259-4159-9302-aa3e8c2b43d7%40sessionmgr102&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#jid=HBR&db=bth)
+    - [The MIT Technology Review](https://search-proquest-com.proxy-um.researchport.umd.edu/publication/35850)
+    
+    @ulend
+
++++
+
+### Where to search
+
+@ul
+
+- University institutes and research centers
+
+@ulend
+
+    @ul
+    
+    - [Human-Computer Interaction Lab](http://hcil.umd.edu/)
+    - [Maryland Institute for Technology in the Humanities](https://mith.umd.edu)
+
+    @ulend
 
 ---
 
