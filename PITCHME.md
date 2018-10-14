@@ -1,14 +1,16 @@
-# Flux
+# Research Strategies for Data-Based Projects
 
-An application architecture for React
+David Durden, Data Services Librarian
 
----
+2018-OCT-15
 
-### Flux Design
++++
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+### Intro
+
+- Inspiration
+- Resources
+- Toolkit
 
 ---
 
