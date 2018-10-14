@@ -1,6 +1,8 @@
-# Research Strategies for Data-Based Projects
+# Research Strategies
 
-David Durden, Data Services Librarian
+For Data-Based Projects
+
+*David Durden, Data Services Librarian*
 
 2018-OCT-15
 
@@ -8,7 +10,7 @@ David Durden, Data Services Librarian
 
 ### Intro
 
-- Inspiration
+- @fa[info-circle](information circle) Inspiration
 - Resources
 - Toolkit
 
