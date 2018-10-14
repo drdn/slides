@@ -4,7 +4,7 @@ David Durden, Data Services Librarian
 
 2018-OCT-15
 
-+++
+---
 
 ### Intro
 
@@ -14,4 +14,4 @@ David Durden, Data Services Librarian
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+![xkcd/2054](https://imgs.xkcd.com/comics/data_pipeline.png)
