@@ -2,7 +2,7 @@
 layout : center-left
 
 # Footnote
-footnote : @fa[creative-commons] @fa[creative-commons-by] @fa[creative-commons-sa] -- 2018 David Durden
+footnote : "@fa[creative-commons] @fa[creative-commons-by] @fa[creative-commons-sa] -- 2018 David Durden"
 
 # Look-and-Feel
 theme : black
