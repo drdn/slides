@@ -14,7 +14,7 @@ For Data-Based Projects
 - @fa[database] Resources
 - @fa[toolbox] Toolkit
 
----
++++
 
 ## Who's doing what?
 
