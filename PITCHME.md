@@ -26,7 +26,7 @@ Note: Apologies for any duplication in material. I was asked to present loosely 
 - Relevant conferences
 - Others?
 
-@ul-end
+@ulend
 
 Note: Look at institutes and companies currently doing design work (*even if they are at other Universities or in the public sector*)
 
@@ -44,7 +44,7 @@ Conferences often publish their proceedings or make presentations/short-/long-pa
 - Discover some trends
 - Expand your vocabulary
 
-@ul-end
+@ulend
 
 Note: 1. Cast a wide net first and then refine, e.g., broad and shallow vs. narrow and deep.
 
@@ -67,11 +67,11 @@ Note: 1. Cast a wide net first and then refine, e.g., broad and shallow vs. narr
     - Record the database/platform you performed the search
     - Record the relevant results
 
-    @ul-end
+    @ulend
 
 - Reusing data? Cite it like any other academic source
 
-@ul-end
+@ulend
 
 ---
 
