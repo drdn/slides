@@ -2,8 +2,9 @@
 
 For Data-Based Projects
 
-@size[small](David Durden, *Data Services Librarian*)
-@size[x-small](2018-OCT-15)
+@size[medium](David Durden, *Data Services Librarian*)
+
+@size[medium](2018-OCT-15)
 
 ---
 
@@ -12,6 +13,20 @@ For Data-Based Projects
 - @fa[info-circle] Inspiration
 - @fa[database] Resources
 - @fa[toolbox] Toolkit
+
+---
+
+## Who's doing what?
+
+@ul
+
+- Ideo
+- Design Incubation Centre
+- Others?
+
+@ul-end
+
+Note: Look at institutes and companies currently doing design work (*even if they are at other Universities*)
 
 ---
 
