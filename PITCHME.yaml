@@ -1,0 +1,14 @@
+# Layout
+layout : center-right
+
+# Look-and-Feel
+theme : black
+highlight : ir-black
+
+# Behavior
+transition : none
+published : true
+
+# Plugins
+charts : true
+mathjax : TeX-AMS_HTML-full
