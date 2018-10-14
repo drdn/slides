@@ -55,19 +55,19 @@ Note: 1. Cast a wide net first and then refine, e.g., broad and shallow vs. narr
 
 +++
 
-# Document your adventure
+### Document your adventure
 
 @ul
 
 - Keep a search term log
 
-@ul
+    @ul
 
-- Record the terms you have searched with
-- Record the database/platform you performed the search
-- Record the relevant results
+    - Record the terms you have searched with
+    - Record the database/platform you performed the search
+    - Record the relevant results
 
-@ul-end
+    @ul-end
 
 - Reusing data? Cite it like any other academic source
 
@@ -75,7 +75,7 @@ Note: 1. Cast a wide net first and then refine, e.g., broad and shallow vs. narr
 
 ---
 
-## Relevant xkcd/2054
+### Relevant xkcd/2054
 
 
 ![xkcd/2054](https://imgs.xkcd.com/comics/data_pipeline.png)
