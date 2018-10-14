@@ -3,7 +3,7 @@
 For Data-Based Projects
 
 @size[small](David Durden, *Data Services Librarian*)
-@size[x-small](2018-OCT-15]
+@size[x-small](2018-OCT-15)
 
 ---
 
