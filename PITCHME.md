@@ -2,17 +2,16 @@
 
 For Data-Based Projects
 
-*David Durden, Data Services Librarian*
-
-2018-OCT-15
+@size[small](David Durden, *Data Services Librarian*)
+@size[x-small](2018-OCT-15]
 
 ---
 
 ### Intro
 
-- @fa[info-circle](information circle) Inspiration
-- Resources
-- Toolkit
+- @fa[info-circle] Inspiration
+- @fa[database] Resources
+- @fa[toolbox] Toolkit
 
 ---
 
