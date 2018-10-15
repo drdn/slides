@@ -62,6 +62,7 @@ Note: One approach is to take a look at what various institutes and companies ar
 - [Ideo](https://www.ideo.com/)
 - [Y Combinator](https://blog.ycombinator.com/)
 - [Design Incubation Centre](http://www.designincubationcentre.com/)
+- [Library of Congress Labs](https://labs.loc.gov/)
 - Relevant conferences?
 
 @ulend
@@ -196,31 +197,39 @@ You can use the works cited and reference pages of things you read to lead you d
 
 Note: Documenting your work is probably the most difficult part of research. Ask yourself: *"If I were to revisit this project a year from now, will I be able to pick up where I left off?"*
 
-Even if you aren't performing lab-based research, you can apply 
+Even if you aren't performing lab-based research, you can apply the organizational strategies of keeping a lab notebook (follow the link at the bottom of the slide for more info).
 
----
+---?image=template/img/bg/white.jpg&position=right&size=70% 100%
+@title[Sidebar + Heading]
 
-### Where to search
+@snap[west text-white]
+<h2>Q3</h2>
+@snapend
+
+@snap[east span-70]
+<h2>@css[text-black](Where do I find relevant *stuff*?)</h2>
+@snapend
+
+### Know Where to Search
 
 @ul
 
-- Library Catalogue (OCLC WorldCat)
+- [UMD Library Catalogue](https://umaryland.on.worldcat.org/advancedsearch)
 - [The Digital Repository at the University of Maryland (DRUM)](https://www.drum.lib.umd.edu)
 - Search specific indexes/databases/publishers
 
 @ulend
     @ul
 
-    - [Design & Applied Arts Index]
+    - [Design & Applied Arts Index](https://search.proquest.com/daai/advanced?accountid=14696)
     - [ACM Digital Library](https://dl-acm-org.proxy-um.researchport.umd.edu/)
-    - Scopus
     - [Multidisciplinary Digital Publishing Institute](https://www.mdpi.com)
 
     @ulend
 
 ---
 
-### Where to search
+### Know Where to Search
 
 @ul
 
@@ -237,27 +246,61 @@ Even if you aren't performing lab-based research, you can apply
 
 ---
 
-### Where to search
+### Know Where to Search
 
 @ul
 
-- University institutes and research centers
+- [Google Scholar](https://www.scholar.google.com)
+- TIP: Set up [Google Alerts](https://www.google.com/alerts) for awesome passive search results delivered right to your inbox.
 
 @ulend
 
-    @ul
-    
-    - [Human-Computer Interaction Lab](http://hcil.umd.edu/)
-    - [Maryland Institute for Technology in the Humanities](https://mith.umd.edu)
+---
 
-    @ulend
+### But I'm Looking for Data!
 
-+++
+@ul
 
-### Relevant xkcd/1411
+- [Registry of Research Data Repositories](https://www.re3data.org) @note[re3data is a searchable registry of hosted datasets. The registry has an emphasis on research data, but this means that datasets discovered should also point to relevant research papers.]
+- [data.gov](https://www.data.gov) @note[The U.S. Government's Open Data portal. A one-stop shop for data and data tools]
+- [The National Data Service](https://www.nationaldataservice.org) @note[The NDS is a consortial effort to improve research data infrastructure in the U.S. This site provides tools, data, and exposes some of the projects supported by the NDS and the Research Data Alliance, which is an international organization aimed at improving the sharing and access to research data.]
+- [wikidata.org](https://wikidata.org) @note[OK. Wikidata is really cool. Wikidata is a human-machine readable linked data platform powered by the Wikimedia Foundation. Through this website, you can generate datasets from sparql queries, or you can edit or add new items. Wikidata provides resources to make your underlying data better, but it is also a great place to get started working with data.]
 
+@ulend
+
+---
+
+### But I Need More Data!
+
+@ul
+
+- [FiveThirtyEight](https://data.fivethirtyeight.com/) @note[538 is a data analysis blog founded by Nate Silver (author of *The Signal and the Noise*). (*Without cheating,* does anyone know the relevance of the number 538? Answer: its the number of electors in the US Electoral College.) 538 makes all of the data used in its visualizations, predictions, and articles available for reuse through its github page.] 
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) @note[This is a huge collection of public datasets arranged by topic. While public, not all of the datasets are free.]
+- [Free Music Archive](http://freemusicarchive.org/) @note[An archive of free music. It's pretty sweet.]
+- [UC Irvine Lachine Learning Library](http://archive.ics.uci.edu/ml/index.php) @note[A collection of machine learning ready datasets. If ML is your thing, this is a great collection of resources.]
+
+---?image=template/img/bg/white.jpg&position=right&size=70% 100%
+@title[Sidebar + Heading]
+
+@snap[west text-white]
+<h2>Q4</h2>
+@snapend
+
+@snap[east span-70]
+<h2>@css[text-black](How do I keep myself from getting overwhelmed?)</h2>
+@snapend
+
+---
+
+### This is My Life
+
+Substitute *literally any website* for *news site*. 
 
 ![xkcd/2054](https://imgs.xkcd.com/comics/loop.png)
+
+@snap[south template-note text-gray]
+[Relevant xkcd/1411](https://imgs.xkcd.com/comics/loop.png)
+@snapend
 
 ---?color=white
 @title[Contact]
