@@ -367,7 +367,7 @@ Slides @ https://go.umd.edu/181015-dcc
 @title[Sidebar + Heading]
 
 @snap[west text-white]
-<h2>Q5</h2>
+<h2>Q4</h2>
 @snapend
 
 @snap[east span-70]
@@ -395,7 +395,7 @@ Slides @ https://go.umd.edu/181015-dcc
 @title[Sidebar + Heading]
 
 @snap[west text-white]
-<h2>Q4</h2>
+<h2>Q5</h2>
 @snapend
 
 @snap[east span-70]
