@@ -285,7 +285,7 @@ Note: Both the Harvard Business Review and the MIT Tech Review publish on modern
 
 @ul
 
-- Just @css[text-blue](G)@css[text-pink](o)@css[text-yellow](o)@css[text-blue](g)@css[text-green](l)@css[text-pink](e) it.
+- Just @css[text-blue](G)@css[text-pink](o)@css[text-yellow](o)@css[text-blue](g)@css[text-green](l)@css[text-pink](o) it.
 - [Google Scholar](https://www.scholar.google.com)
 - TIP: Set up [Google Alerts](https://www.google.com/alerts) for awesome passive search results delivered right to your inbox.
 
