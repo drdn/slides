@@ -1,6 +1,6 @@
 @snap[west]
 
-<h1>Research Strategies</h1>
+<h1>Research Resources</h1>
 <h3>For Data-Based Projects</h3>
 @size[medium](David Durden, <i>Data Services Librarian</i>)
 
@@ -11,7 +11,7 @@
 <h3>Hi!<br />I'm Dave.</h3>
 
 @snap[south template-note text-gray]
-Slides @ https://ter.ps/181015-dcc
+Slides @ https://go.umd.edu/181015-dcc
 @snap
 
 Note: My name is David Durden; I'm the Data Services Librarian for the University Libraries. If you have ever interacted with a librarian here on campus (which you all should have, *right?*), chances are they were working in Reference. 
@@ -20,18 +20,18 @@ Unlike those librarians which you *should* have met, I work down in the basement
  
 --- 
 
-### Today's Plan
+### Roadmap
 
 @ul
 
 - Inspiration
 - Strategy
-- Tools 
+- Resources 
 
 @ulend 
 
 @snap[south template-note text-gray]
-Slides @ https://ter.ps/181015-dcc
+Slides @ https://go.umd.edu/181015-dcc
 @snap
 
 Note: I'm going to briefly talk about refining research questions and generating search terms, and I'll introduce some places to start looking for resources as well as some entry-level data tools.
@@ -67,6 +67,10 @@ Note: One approach is to take a look at what various institutes and companies ar
 
 @ulend
 
+@snap[south template-note text-gray]
+Slides @ https://go.umd.edu/181015-dcc
+@snap
+
 Note: 
 
 Ideo is a company who pioneered in the field of design thinking. They emphasize human-centered design through collaboration, innovation, and creativity. *You may have heard of them.* The Ideo website features past projects, blogs that discuss approaches, successes, and failures, and some tools to get you started in design thinking. 
@@ -88,6 +92,10 @@ Conferences often publish their proceedings or make presentations/short-/long-pa
 - [238 campus research centers](https://www.umd.edu/centers-and-institutes)
 
 @ulend
+
+@snap[south template-note text-gray]
+Slides @ https://go.umd.edu/181015-dcc
+@snap
 
 Note:
 
@@ -121,6 +129,10 @@ If these centers don't fit your idea, you can browse all 238 centers on campus a
 - Expand your vocabulary
 
 @ulend
+
+@snap[south template-note text-gray]
+Slides @ https://go.umd.edu/181015-dcc
+@snap
 
 Note: 
 
@@ -163,16 +175,20 @@ Don't let yourself explore too far.
 
 ---
 
-### Use References in Relevant Papers
+### Use References from Relevant Papers
 
 @ul
 
 - Works cited == more sources for you
 - Search the works of a single author
-- Look for annotated and/or published bibliographies
+- Look for annotated and/or [published bibliographies](http://www.oxfordbibliographies.com/)
 - *HINT:* Ask your reference librarian to help you find relevant materials!
 
 @ulend
+
+@snap[south template-note text-gray]
+Slides @ https://go.umd.edu/181015-dcc
+@snap
     
 Note: *Question to the group*: Has anyone ever gone down the Rabbit Hole on Wikipedia? Clicking link after link until you windup far from where you started? 
 
@@ -197,12 +213,26 @@ You can use the works cited and reference pages of things you read to lead you d
 @ulend
 
 @snap[south template-note text-gray]
-[A nifty guide to keeping a lab notebook](https://colinpurrington.com/tips/lab-notebooks)
+[A nifty guide to keeping a lab notebook.](https://colinpurrington.com/tips/lab-notebooks)
 @snap
 
 Note: Documenting your work is probably the most difficult part of research. Ask yourself: *"If I were to revisit this project a year from now, will I be able to pick up where I left off?"*
 
 Even if you aren't performing lab-based research, you can apply the organizational strategies of keeping a lab notebook (follow the link at the bottom of the slide for more info).
+
+---
+
+### Plan and Document with a Data Management Plan
+
+![dmptool](assets/dmptool.png)
+
+Login at [https://dmptool.org]()
+
+@snap[south template-note text-gray]
+Disclaimer: I work in data management and I'm a little enthusiastic about DMPs.
+@snap
+
+Note: DMPTool is a website that hosts templates for various data management plans. While mostly aimed at researchers applying for funding from various grant awarding agencies, DMPs can be a useful tool for thinking through who will have access to your stuff, where your stuff comes from, where your stuff is stored, and where your stuff will live once you're finished with it.
 
 ---?image=template/img/bg/white.jpg&position=right&size=70% 100%
 @title[Sidebar + Heading]
@@ -233,6 +263,10 @@ Even if you aren't performing lab-based research, you can apply the organization
     - [Multidisciplinary Digital Publishing Institute](https://www.mdpi.com)
 
     @ulend
+    
+@snap[south template-note text-gray]
+Slides @ https://go.umd.edu/181015-dcc
+@snap
 
 ---
 
@@ -246,6 +280,10 @@ Even if you aren't performing lab-based research, you can apply the organization
     
 @ulend
 
+@snap[south template-note text-gray]
+Slides @ https://go.umd.edu/181015-dcc
+@snap
+
 ---
 
 ### Know Where to Search
@@ -257,9 +295,25 @@ Even if you aren't performing lab-based research, you can apply the organization
 
 @ulend
 
+@snap[south template-note text-gray]
+Slides @ https://go.umd.edu/181015-dcc
+@snap
+
 ---
 
-### But I'm Looking for Data!
+### Know How to Search
+
+- Boolean operators (AND, NOT, OR)
+- Boolean values (True/False)
+- Platform specific search operators (e.g., Google, ProQuest, WorldCat)
+
+@snap[south template-note text-gray]
+[Relevant slides for advanced searching in Google](https://drdn.github.io/presentations/20180214-g-search-strategy.pdf)
+@snap
+
+---
+
+### Wait, I'm Looking for Data!
 
 @ul
 
@@ -270,9 +324,13 @@ Even if you aren't performing lab-based research, you can apply the organization
 
 @ulend
 
+@snap[south template-note text-gray]
+Slides @ https://go.umd.edu/181015-dcc
+@snap
+
 ---
 
-### But I Need More Data!
+### No, I Need More Data!
 
 @ul
 
@@ -280,6 +338,13 @@ Even if you aren't performing lab-based research, you can apply the organization
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) @note[This is a huge collection of public datasets arranged by topic. While public, not all of the datasets are free.]
 - [Free Music Archive](http://freemusicarchive.org/) @note[An archive of free music. It's pretty sweet.]
 - [UC Irvine Lachine Learning Library](http://archive.ics.uci.edu/ml/index.php) @note[A collection of machine learning ready datasets. If ML is your thing, this is a great collection of resources.]
+- [Internet Archive](https://archive.org) @note[Not presented as a dataset, but can be used with various metadata harvesting methods to generate datasets. Python has a module for data mining the Internet Archive and the [Programming Historian](https://programminghistorian.org/en/lessons/data-mining-the-internet-archive) has a tutorial on how to use it.]
+
+@ulend
+
+@snap[south template-note text-gray]
+Slides @ https://go.umd.edu/181015-dcc
+@snap
 
 ---?image=template/img/bg/white.jpg&position=right&size=70% 100%
 @title[Sidebar + Heading]
@@ -317,14 +382,46 @@ Note: Technology can be excruciatingly distracting. Don't trick yourself into pr
 
 Note: [pre-crastination](http://journals.sagepub.com/doi/abs/10.1177/0956797614532657) is referred to as the "hastening of subgoal completion at the expense of extra physical effort." 
 
+@snap[south template-note text-gray]
+Slides @ https://go.umd.edu/181015-dcc
+@snap
+
 ---
 
 @quote[Am I rushing to complete things, or am I avoiding doing things all together?]
 
 Note: Ask yourself, *"do I rush to complete things or do I avoid doing them all together?*
 
+---?image=template/img/bg/white.jpg&position=right&size=70% 100%
+@title[Sidebar + Heading]
+
+@snap[west text-white]
+<h2>Q5</h2>
+@snapend
+
+@snap[east span-70]
+<h2>@css[text-black](How do I manage all the stuff I found?)</h2>
+@snapend
+
+---
+
+### Tools for Managing Research and Data
+
+- [Jupyter Notebooks](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook) @note[Jupyter Notebooks are an integrated environment for putting code, text, and graphics all in one place. This link will take you to a datacamp tutorial on setting up Jupyter in Python.]
+- [OpenRefine](http://openrefine.org/) @note[OpenRefine is an excellent way to explore, clean, transform, and restructure data in a graphic interface. Granted, there are more technical ways to do a lot of way OpenRefine accomplishes (e.g., Python's Pandas Library or R). OpenRefine runs in a web browser and lets you interact with substantially more data than Excel (it also won't reformat or overwrite your existing data).]
+- [Zotero](https://www.zotero.org/) @note[Zotero is a free tool for collecting and organizing citations and full-text research materials. If used correctly, you can organize by project, format citations, and have access to pdfs of collected research all in one place. Other options exist, such as EndNote and Mendeley.]
+- Git and Github @note[Version control is your friend. However, Github is open and accessible to the entire web, so think about the possibility of having your work scooped before committing everything to GH. github does have a private repository option, but it comes with a monthly fee.]
+
+@snap[south template-note text-gray]
+Slides @ https://go.umd.edu/181015-dcc
+@snap
+
+---
+
+## Questions?
+
 ---?color=white
-@title[Contact]
+@title[Thanks!]
 
 @snap[west]
 @css[contact-name](David Durden)<br>
