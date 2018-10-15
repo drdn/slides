@@ -182,13 +182,13 @@ You can use the works cited and reference pages of things you read to lead you d
 
 @ulend
 
-    @ul
+@ul
 
-    - Search terms
-    - Databases/platforms searched
-    - Relevant results
+- Search terms
+- Databases/platforms searched
+- Relevant results
 
-    @ulend
+ @ulend
 
 @ul
 
