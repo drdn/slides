@@ -367,6 +367,34 @@ Slides @ https://go.umd.edu/181015-dcc
 @title[Sidebar + Heading]
 
 @snap[west text-white]
+<h2>Q5</h2>
+@snapend
+
+@snap[east span-70]
+<h2>@css[text-black](How do I manage all the stuff I found?)</h2>
+@snapend
+
+---
+
+### Tools for Managing Research and Data
+
+@ul
+
+- [Jupyter Notebooks](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook) @note[Jupyter Notebooks are an integrated environment for putting code, text, and graphics all in one place. This link will take you to a datacamp tutorial on setting up Jupyter in Python.]
+- [OpenRefine](http://openrefine.org/) @note[OpenRefine is an excellent way to explore, clean, transform, and restructure data in a graphic interface. Granted, there are more technical ways to do a lot of what OpenRefine accomplishes (e.g., Python's Pandas Library or R). OpenRefine runs in a web browser and lets you interact with substantially more data than Excel (it also won't reformat or overwrite your existing data).]
+- [Zotero](https://www.zotero.org/) @note[Zotero is a free tool for collecting and organizing citations and full-text research materials. If used correctly, you can organize by project, format citations, and have access to pdfs of collected research all in one place. Other options exist, such as EndNote and Mendeley.]
+- Git and Github @note[Version control is your friend. Depending on the level technical development required for your project, git and github may not be a good option. Github is open and accessible to the entire web, so think about the possibility of having your work scooped before committing everything to GH. Github does have a private repository option, but it comes with a monthly fee.]
+
+@ulend
+
+@snap[south template-note text-gray]
+Slides @ https://go.umd.edu/181015-dcc
+@snapend
+
+---?image=template/img/bg/white.jpg&position=right&size=70% 100%
+@title[Sidebar + Heading]
+
+@snap[west text-white]
 <h2>Q4</h2>
 @snapend
 
@@ -374,7 +402,7 @@ Slides @ https://go.umd.edu/181015-dcc
 <h2>@css[text-black](How do I keep myself from getting overwhelmed?)</h2>
 @snapend
 
-Note: So, I admit, I'm probably not helping you here.
+Note: So, I admit, I'm probably not helping you here. But we're going to move away from talking about where and how to find resources, and talk about recognizing bad habits that emerge when undertaking a new project.
 
 ---
 
@@ -407,43 +435,13 @@ Slides @ https://go.umd.edu/181015-dcc
 
 Note: [pre-crastination](http://journals.sagepub.com/doi/abs/10.1177/0956797614532657) is the "hastening of subgoal completion at the expense of extra physical effort." Otherwise known as the urge to start a task and complete it immediately.
 
-Figure out which
-
-
+Knowing which of these behaviors match your natural tendencies is the first step to being more productive in a qualitative sense. Trying to find all of your sources in one sitting is difficult and can be counter-productive. Remember to look for sources that are applicable, not just those that meet the minimum requirements. 
 
 ---
 
 @quote[Am I rushing to complete things, or am I avoiding doing things all together?]
 
 Note: Ask yourself, *"do I rush to complete things or do I avoid doing them all together?*
-
----?image=template/img/bg/white.jpg&position=right&size=70% 100%
-@title[Sidebar + Heading]
-
-@snap[west text-white]
-<h2>Q5</h2>
-@snapend
-
-@snap[east span-70]
-<h2>@css[text-black](How do I manage all the stuff I found?)</h2>
-@snapend
-
----
-
-### Tools for Managing Research and Data
-
-@ul
-
-- [Jupyter Notebooks](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook) @note[Jupyter Notebooks are an integrated environment for putting code, text, and graphics all in one place. This link will take you to a datacamp tutorial on setting up Jupyter in Python.]
-- [OpenRefine](http://openrefine.org/) @note[OpenRefine is an excellent way to explore, clean, transform, and restructure data in a graphic interface. Granted, there are more technical ways to do a lot of way OpenRefine accomplishes (e.g., Python's Pandas Library or R). OpenRefine runs in a web browser and lets you interact with substantially more data than Excel (it also won't reformat or overwrite your existing data).]
-- [Zotero](https://www.zotero.org/) @note[Zotero is a free tool for collecting and organizing citations and full-text research materials. If used correctly, you can organize by project, format citations, and have access to pdfs of collected research all in one place. Other options exist, such as EndNote and Mendeley.]
-- Git and Github @note[Version control is your friend. However, Github is open and accessible to the entire web, so think about the possibility of having your work scooped before committing everything to GH. github does have a private repository option, but it comes with a monthly fee.]
-
-@ulend
-
-@snap[south template-note text-gray]
-Slides @ https://go.umd.edu/181015-dcc
-@snapend
 
 ---
 
