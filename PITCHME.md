@@ -124,7 +124,7 @@ If these centers don't fit your idea, you can browse all 238 centers on campus a
 
 Note: 
 
-Take some time to develop a search strategy that works for you. 
+Take some time to develop a search strategy that works for you. Your experience will vary. 
 
 1. Cast a wide net first and then refine, e.g., broad and shallow vs. narrow and deep.
 
@@ -135,6 +135,7 @@ Take some time to develop a search strategy that works for you.
 4. Look for and analyze thematic trends in seemingly disparate or unrelated topics. Trends can help you both decide what to do, and what *not* to do.
 
 5. Reduce these themes and ideas into a set of core vocabulary terms--these will become your search keywords. Use a thesaurus to find word variants; use official thesauri to discover how different indexes and catalogs are organizing information.
+6.  Use citation managers liek Zotero, Mendeley, EndNote (if you have a subscription), or BibTex (if you're into that sorta thing.)
 
 +++ 
 
@@ -142,19 +143,22 @@ Take some time to develop a search strategy that works for you.
 
 @ul
     
-- [Library of Congress Subject Headings](http://id.loc.gov/authorities/subjects.html)
-- [Getty Institute Vocabularies](http://www.getty.edu/research/tools/vocabularies/)
-- Articles and search results often include subject terms and keywords!
+- [Library of Congress Subject Headings](http://id.loc.gov/authorities/subjects.html) @note[The LoC subject headings are how most library systems in the United States arrange and describe their holdings. There is a bit of a learning curve regarding how to best navigate this resource, but it can be valuable. ]
+- [Getty Institute Vocabularies](http://www.getty.edu/research/tools/vocabularies/) @note[The Getty has developed several controlled vocabularies designed for the graphic arts and architecture. ]
+- Articles and search results often include subject terms and keywords! @note[Whenever you find a relevant article in EBSCO or ProQuest, you will be able to see the search terms associated with the results. Keep track of these terms when collecting articles. Some publications, such as those published in the Association for Computing Machinery (ACM) format will usually include subject terms and keywords alongside the abstract.]
 
 @ulend
 
-Note: The LoC subject headings are how most library systems in the United States arrange and describe their holdings. There is a bit of a learning curve regarding how to best navigate this resource, but it can be valuable. 
-
-The Getty has developed several controlled vocabularies designed for the graphic arts and architecture. 
-
-Whenever you find a relevant article in EBSCO or ProQuest, you will be able to see the search terms associated with the results. Keep track of these terms when collecting articles. Some publications, such as those published in the Association for Computing Machinery (ACM) format will usually include subject terms and keywords alongside the abstract.
-
 ---
+
+### Wait, Wait, Wait! 
+
+Don't let yourself explore too far.
+
+![xkcd/time](https://timedotcom.files.wordpress.com/2015/11/munroe-2a.jpg?w=600)
+
+@snap[south template-note text-gray]
+[Relevant xkcd (well, sort of. It was *actually* published in *TIME*.)](https://timedotcom.files.wordpress.com/2015/11/munroe-2a.jpg?w=600)
 
 ### Use References in Relevant Papers
 
@@ -163,11 +167,9 @@ Whenever you find a relevant article in EBSCO or ProQuest, you will be able to s
 - Works cited == more sources for you
 - Search the works of a single author
 - Look for annotated and/or published bibliographies
+- *HINT:* Ask your reference librarian to help you find relevant materials!
 
 @ulend
-    @ul
-    - *HINT:* Ask your reference librarian to help you find relevant materials!
-    @ulend
     
 Note: *Question to the group*: Has anyone ever gone down the Rabbit Hole on Wikipedia? Clicking link after link until you windup far from where you started? 
 
@@ -234,15 +236,10 @@ Even if you aren't performing lab-based research, you can apply the organization
 @ul
 
 - Search specific publications
-
-@ulend
-
-    @ul
-
-    - [The Harvard Business Review](http://web.b.ebscohost.com.proxy-um.researchport.umd.edu/ehost/command/detail?vid=0&sid=467fe51a-4259-4159-9302-aa3e8c2b43d7%40sessionmgr102&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#jid=HBR&db=bth)
-    - [The MIT Technology Review](https://search-proquest-com.proxy-um.researchport.umd.edu/publication/35850)
+- [The Harvard Business Review](http://web.b.ebscohost.com.proxy-um.researchport.umd.edu/ehost/command/detail?vid=0&sid=467fe51a-4259-4159-9302-aa3e8c2b43d7%40sessionmgr102&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#jid=HBR&db=bth)
+- [The MIT Technology Review](https://search-proquest-com.proxy-um.researchport.umd.edu/publication/35850)
     
-    @ulend
+@ulend
 
 ---
 
@@ -299,8 +296,24 @@ Substitute *literally any website* for *news site*.
 ![xkcd/2054](https://imgs.xkcd.com/comics/loop.png)
 
 @snap[south template-note text-gray]
-[Relevant xkcd/1411](https://imgs.xkcd.com/comics/loop.png)
+[Relevant xkcd no.1411](https://imgs.xkcd.com/comics/loop.png)
 @snapend
+
+Note: Technology can be excruciatingly distracting. Don't trick yourself into procrastinating by learning or being 'productive'. Some examples of this are:
+
+- cleaning your apartment/dorm/house to avoid work
+- learning a cool, but irrelevant skill (e.g., the case of [Donald Knuth writing a book and inventing TeX](https://en.wikipedia.org/wiki/TeX#History) because he didn't like what his book looked like)
+- 
+
+---
+
+### Get to Know Yourself
+
+[Pre-crastination](https://www.nytimes.com/2016/01/17/opinion/sunday/why-i-taught-myself-to-procrastinate.html) vs. procrastination.
+
+Note: [Pre-crastination](http://journals.sagepub.com/doi/abs/10.1177/0956797614532657) is referred to as the "hastening of subgoal completion at the expense of extra physical effort." 
+
+Ask yourself, *"do I rush to complete things or do I avoid doing them all together?*
 
 ---?color=white
 @title[Contact]
