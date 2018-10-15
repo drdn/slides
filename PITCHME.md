@@ -198,10 +198,10 @@ Note:
 @title[Contact]
 
 @snap[west]
-@css[contact-name](David (Dave) Durden)<br>
+@css[contact-name](David \(Dave\) Durden)<br>
 @fa[twitter-square text-blue pad-right-icon]@css[twitter-handle text-blue](@davedrdn)<br>
 @fa[github-square pad-right-icon]@css[git-handle](drdn)<br>
-@fa[envelope-o text-red pad-right-icon]@css[contact-email text-red](durden@umd.edu)
+@fa[envelope-o text-purple pad-right-icon]@css[contact-email text-purple](durden@umd.edu)
 @snapend
 
 @snap[east]
