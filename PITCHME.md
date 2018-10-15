@@ -181,19 +181,11 @@ You can use the works cited and reference pages of things you read to lead you d
 - Keep a log of your searches
 
 @ulend
-
-@ul
-
+@ol
 - Search terms
 - Databases/platforms searched
 - Relevant results
-
- @ulend
-
-@ul
-
 - Reusing data? [Cite it!](http://best-practices.dataverse.org/data-citation/)
-
 @ulend
 
 @snap[south template-note text-gray]
