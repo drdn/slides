@@ -308,7 +308,6 @@ Note: Technology can be excruciatingly distracting. Don't trick yourself into pr
 
 - cleaning your apartment/dorm/house to avoid work
 - learning a cool, but irrelevant skill (e.g., the case of [Donald Knuth writing a book and inventing TeX](https://en.wikipedia.org/wiki/TeX#History) because he didn't like what his book looked like)
-- 
 
 ---
 
@@ -316,9 +315,13 @@ Note: Technology can be excruciatingly distracting. Don't trick yourself into pr
 
 [Pre-crastination](https://www.nytimes.com/2016/01/17/opinion/sunday/why-i-taught-myself-to-procrastinate.html) vs. procrastination.
 
-Note: [Pre-crastination](http://journals.sagepub.com/doi/abs/10.1177/0956797614532657) is referred to as the "hastening of subgoal completion at the expense of extra physical effort." 
+Note: [pre-crastination](http://journals.sagepub.com/doi/abs/10.1177/0956797614532657) is referred to as the "hastening of subgoal completion at the expense of extra physical effort." 
 
-Ask yourself, *"do I rush to complete things or do I avoid doing them all together?*
+---
+
+@quote[Am I rushing to complete things, or am I avoiding doing things all together?]
+
+Note: Ask yourself, *"do I rush to complete things or do I avoid doing them all together?*
 
 ---?color=white
 @title[Contact]
