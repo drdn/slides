@@ -285,9 +285,9 @@ Note: Both the Harvard Business Review and the MIT Tech Review publish on modern
 
 @ul
 
-- Just *Google* it.
-- [Google Scholar](https://www.scholar.google.com)
-- TIP: Set up [Google Alerts](https://www.google.com/alerts) for awesome passive search results delivered right to your inbox.
+- Just *Google* it. @note[Sometimes a non-scholarly approach can return useful, academic resources.]
+- [Google Scholar](https://www.scholar.google.com) @note[But, of course, there's always Google Scholar.]
+- TIP: Set up [Google Alerts](https://www.google.com/alerts) for awesome passive search results delivered right to your inbox. @note[Once you have a bunch of search terms, you can set up some Alerts have Google deliver the freshest results right to you.]
 
 @ulend
 
@@ -307,16 +307,18 @@ Slides @ https://go.umd.edu/181015-dcc
 [Relevant slides for advanced searching in Google](https://drdn.github.io/presentations/20180214-g-search-strategy.pdf)
 @snap
 
+Note: There's a separate logic to search academic and library databases. Google works really well with both natural language and boolean searching, but library databases will almost always work better with logical queries.
+
 ---
 
 ### Wait, I'm Looking for Data!
 
 @ul
 
-- [Registry of Research Data Repositories](https://www.re3data.org) @note[re3data is a searchable registry of hosted datasets. The registry has an emphasis on research data, but this means that datasets discovered should also point to relevant research papers.]
-- [data.gov](https://www.data.gov) @note[The U.S. Government's Open Data portal. A one-stop shop for data and data tools]
-- [The National Data Service](https://www.nationaldataservice.org) @note[The NDS is a consortial effort to improve research data infrastructure in the U.S. This site provides tools, data, and exposes some of the projects supported by the NDS and the Research Data Alliance, which is an international organization aimed at improving the sharing and access to research data.]
-- [wikidata.org](https://wikidata.org) @note[OK. Wikidata is really cool. Wikidata is a human-machine readable linked data platform powered by the Wikimedia Foundation. Through this website, you can generate datasets from sparql queries, or you can edit or add new items. Wikidata provides resources to make your underlying data better, but it is also a great place to get started working with data.]
+- [Registry of Research Data Repositories](https://www.re3data.org) @note[re3data is a searchable registry of hosted datasets and data repositories. The registry has an emphasis on research data and academia, but this means that datasets discovered should also point to relevant research papers.]
+- [data.gov](https://www.data.gov) @note[The U.S. Government's Open Data portal. A one-stop shop for data and data tools. Useful data when dealing with US lands and populations.]
+- [The National Data Service](https://www.nationaldataservice.org) @note[The NDS is a consortial effort to improve research data infrastructure in the U.S. This site provides tools, data, and exposes some of the projects supported by the NDS and the Research Data Alliance, which is an international organization aimed at improving the sharing and access to research data. While the site does have some data, it also points to a lot of data related literature and tools.]
+- [wikidata.org](https://wikidata.org) @note[OK. Wikidata is really cool. Wikidata is a human & machine readable linked data platform powered by the Wikimedia Foundation. Through this website, you can generate sub-sets of data from SPARQL queries (which is a query language for the semantic web), or you can edit or add new items. Wikidata provides resources to make your underlying application data better, but it is also a great place to get started working with data--it's super useful for connecting people, places, and ideas.]
 
 @ulend
 
@@ -331,9 +333,9 @@ Slides @ https://go.umd.edu/181015-dcc
 @ul
 
 - [FiveThirtyEight](https://data.fivethirtyeight.com/) @note[538 is a data analysis blog founded by Nate Silver (author of *The Signal and the Noise*). (*Without cheating,* does anyone know the relevance of the number 538? Answer: its the number of electors in the US Electoral College.) 538 makes all of the data used in its visualizations, predictions, and articles available for reuse through its github page.] 
-- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) @note[This is a huge collection of public datasets arranged by topic. While public, not all of the datasets are free.]
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) @note[This is a huge collection of public datasets arranged by topic. While public, not all of the datasets are free. APD also points to some data challenges, which may also be a useful for idea generation.]
 - [Free Music Archive](http://freemusicarchive.org/) @note[An archive of free music. It's pretty sweet.]
-- [UC Irvine Lachine Learning Library](http://archive.ics.uci.edu/ml/index.php) @note[A collection of machine learning ready datasets. If ML is your thing, this is a great collection of resources.]
+- [UC Irvine Machine Learning Library](http://archive.ics.uci.edu/ml/index.php) @note[A collection of machine learning ready datasets. If ML is your thing, this is a great collection of resources.]
 
 @snap[south template-note text-gray]
 Slides @ https://go.umd.edu/181015-dcc
@@ -343,8 +345,10 @@ Slides @ https://go.umd.edu/181015-dcc
 
 ### MORE DATA.
 
-- [US Building Footprints](https://github.com/Microsoft/USBuildingFootprints/)
-- [A map of every building in America (based on the dataset above)](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html)
+@ul
+
+- [US Building Footprints](https://github.com/Microsoft/USBuildingFootprints/) @note[Created by Microsoft, this dataset has building shapes and locations for almost every building in the United States. Granted, there are some errors, but it is an open dataset.]
+- [A map of every building in America (based on the dataset above)](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html) @note[If you didn't see this article last week, you should check it out ASAP. It's built using the US Building Footprints dataset.]
 - [Internet Archive](https://archive.org) @note[Not presented as a dataset, but can be used with various metadata harvesting methods to generate datasets. Python has a module for data mining the Internet Archive and the [Programming Historian](https://programminghistorian.org/en/lessons/data-mining-the-internet-archive) has a tutorial on how to use it.]
 
 @ulend
