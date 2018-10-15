@@ -6,7 +6,7 @@
 
 @snapend
 
-+++
+---
 
 <h3>Hi!<br />I'm Dave.</h3>
 
@@ -18,7 +18,7 @@ Note: My name is David Durden; I'm the Data Services Librarian for the Universit
 
 Unlike those librarians which you *should* have met, I work down in the basement of McKeldin Library. I deal primarily with digital curation, data archiving, and data management. 
  
-+++ 
+--- 
 
 ### Today's Plan
 
@@ -52,7 +52,8 @@ Let's get started.
 @snapend
 
 Note: One approach is to take a look at what various institutes and companies are currently doing in regard to design work (*even if they are at other Universities or in the public sector*)
-+++
+
+---
 
 ### Inspiring Examples
 
@@ -75,7 +76,7 @@ The Design Incubation Center is housed at the National University of Singapore. 
 
 Conferences often publish their proceedings or make presentations/short-/long-papers available (*this is a great place to get the most current research and work in a given field*) Depending on what your project is, and what your personal field of study is, the conferences that may appeal to you is highly variable. If you don't know what conferences exist in your field, ask a professor sometime.
 
-+++
+---
 
 ### Inspiring Examples at UMD
 
@@ -95,7 +96,7 @@ Two centers that I think are appropriate for the DCC would be MITH and HCIL -- b
 
 If these centers don't fit your idea, you can browse all 238 centers on campus at the link provided in the slides.
 
-+++?image=template/img/bg/white.jpg&position=right&size=70% 100%
+---?image=template/img/bg/white.jpg&position=right&size=70% 100%
 @title[Sidebar + Heading]
 
 @snap[west text-white]
@@ -106,7 +107,7 @@ If these centers don't fit your idea, you can browse all 238 centers on campus a
 <h2>@css[text-black](How do I find relevant *stuff*?)</h2>
 @snapend
 
-+++
+---
 
 ### Strategize => Search => Refine
 
@@ -134,7 +135,7 @@ Take some time to develop a search strategy that works for you.
 
 5. Reduce these themes and ideas into a set of core vocabulary terms--these will become your search keywords. Use a thesaurus to find word variants; use official thesauri to discover how different indexes and catalogs are organizing information.
 
---- 
++++ 
 
 ### Example Vocabularies
 
@@ -152,7 +153,7 @@ The Getty has developed several controlled vocabularies designed for the graphic
 
 Whenever you find a relevant article in EBSCO or ProQuest, you will be able to see the search terms associated with the results. Keep track of these terms when collecting articles. Some publications, such as those published in the Association for Computing Machinery (ACM) format will usually include subject terms and keywords alongside the abstract.
 
-+++
+---
 
 ### Use References in Relevant Papers
 
@@ -171,7 +172,7 @@ Note: *Question to the group*: Has anyone ever gone down the Rabbit Hole on Wiki
 
 You can use the works cited and reference pages of things you read to lead you directly to other relevant resources. References are for more than fulfilling a submission requirement or complying with academic integrity standards.
 
-+++
+---
 
 ### Document Your Adventure
 
@@ -199,7 +200,7 @@ Note: Documenting your work is probably the most difficult part of research. Ask
 
 Even if you aren't performing lab-based research, you can apply 
 
-+++
+---
 
 ### Where to search
 
@@ -219,7 +220,7 @@ Even if you aren't performing lab-based research, you can apply
 
     @ulend
 
-+++
+---
 
 ### Where to search
 
@@ -236,7 +237,7 @@ Even if you aren't performing lab-based research, you can apply
     
     @ulend
 
-+++
+---
 
 ### Where to search
 
@@ -260,7 +261,7 @@ Even if you aren't performing lab-based research, you can apply
 
 ![xkcd/2054](https://imgs.xkcd.com/comics/loop.png)
 
-+++?color=white
+---?color=white
 @title[Contact]
 
 @snap[west]
