@@ -177,9 +177,8 @@ You can use the works cited and reference pages of things you read to lead you d
 
 @ul
 
-- Keep log of your searches
+- Keep a log of your searches
 
-@ulend
     @ul
 
     - Search terms
@@ -187,7 +186,6 @@ You can use the works cited and reference pages of things you read to lead you d
     - Relevant results
 
     @ulend
-@ul
 
 - Reusing data? [Cite it!](http://best-practices.dataverse.org/data-citation/)
 
