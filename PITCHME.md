@@ -10,6 +10,10 @@
 
 <h3>Hi!<br />I'm Dave.</h3>
 
+@snap[south template-note text-gray]
+Slides @ https://ter.ps/
+@snap
+
 Note: My name is David Durden; I'm the Data Services Librarian for the University Libraries. If you have ever interacted with a librarian here on campus (which you all should have, *right?*), chances are they were working in Reference. 
 
 Unlike those librarians which you *should* have met, I work down in the basement of McKeldin Library. I deal primarily with digital curation, data archiving, and data management. 
@@ -189,3 +193,17 @@ Note:
 
 
 ![xkcd/2054](https://imgs.xkcd.com/comics/data_pipeline.png)
+
++++?color=white
+@title[Contact]
+
+@snap[west]
+@css[contact-name](David (Dave) Durden)<br>
+@fa[twitter-square text-blue pad-right-icon]@css[twitter-handle text-blue](@davedrdn)<br>
+@fa[github-square pad-right-icon]@css[git-handle(drdn)<br>
+@fa[envelope-o text-red pad-right-icon]@css[contact-email text-pink](durden@umd.edu)
+@snapend
+
+@snap[east]
+<h3>Contact info</h3>
+@snapend
