@@ -110,10 +110,10 @@ Note: Great question.
 
 @ul 
 
-- What are you really looking for? @note[Cast a wide net first and then refine, e.g., broad and shallow vs. narrow and deep.]
-- Dedicate time for random exploration @note[Your initial search may be painfully unproductive. Avoid the urge to *pre-crastinate*. We'll discuss this more, later.]
+- What are you really looking for? @note[Cast a wide net first and then refine, e.g., broad and shallow vs. narrow and deep. Write out a long form question and then reduce to a few words and phrases.]
+- Dedicate time for random exploration @note[Your initial search may be painfully unproductive. Avoid trying to find all of your sources in one setting. Avoid the urge to *pre-crastinate*. We'll discuss this more, later.]
 - Collect some ideas @note[Your initial ideas should be conceptual, theoretical, high-level. From these concepts you can drill-down and get specific.]
-- Discover some trends @note[Look for and analyze thematic trends in seemingly disparate or unrelated topics. Trends can help you both decide what to do, and what *not* to do.]
+- Discover some trends @note[Look for and analyze thematic trends in seemingly disparate or unrelated topics. Trends can help you both decide what to do, and what *not* to do. This can also be a great source of creativity and discovery of novel ideas.]
 - Expand your vocabulary @note[Reduce these themes and ideas into a set of core vocabulary terms--these will become your search keywords. Use a thesaurus to find word variants; use official thesauri to discover how different indexes and catalogs are organizing information.]
 
 @ulend
@@ -133,7 +133,7 @@ Take some time to develop a search strategy that works for you. Your experience 
 @ul
     
 - [Library of Congress Subject Headings](http://id.loc.gov/authorities/subjects.html) @note[The LoC subject headings are how most library systems in the United States arrange and describe their holdings. There is a bit of a learning curve regarding how to best navigate this resource, but it can be valuable. ]
-- [Getty Institute Vocabularies](http://www.getty.edu/research/tools/vocabularies/) @note[The Getty has developed several controlled vocabularies designed for the graphic arts and architecture. ]
+- [Getty Institute Vocabularies](http://www.getty.edu/research/tools/vocabularies/) @note[The Getty Research Institute has developed several controlled vocabularies designed for the graphic arts and architecture. ]
 - Articles and search results often include subject terms and keywords! @note[Whenever you find a relevant article in EBSCO or ProQuest, you will be able to see the search terms associated with the results. Keep track of these terms when collecting articles. Some publications, such as those published in the Association for Computing Machinery (ACM) format will usually include subject terms and keywords alongside the abstract.]
 
 @ulend
@@ -150,6 +150,8 @@ Don't let yourself explore too far.
 [Relevant xkcd (well, sort of. It was *actually* published in *TIME*.)](https://timedotcom.files.wordpress.com/2015/11/munroe-2a.jpg?w=600)
 @snapend
 
+Note: *Question to the group*: Has anyone ever gone down the Rabbit Hole on Wikipedia? Clicking link after link until you windup far from where you started? Don't let yourself get bogged down by trying to find too many resources. Take a break; especially if you find yourself far from where you started.
+
 ---
 
 ### Use References from Relevant Papers
@@ -158,8 +160,8 @@ Don't let yourself explore too far.
 
 - Works cited == more sources for you
 - Search the works of a single author
-- Look for annotated and/or [published bibliographies](http://www.oxfordbibliographies.com/)
-- *HINT:* Ask your reference librarian to help you find relevant materials!
+- Look for annotated and/or [published bibliographies](http://www.oxfordbibliographies.com/) @note[if you're following along with the slides, this link will take you to the Oxford Bibliographies]
+- *HINT:* [Ask](https://umd.libanswers.com/) a reference librarian to help you find relevant materials! @note[Ask Us! is a combination FAQ and live chat page where you can send reference and research questions to librarians on campus.]
 
 @ulend
 
@@ -167,9 +169,7 @@ Don't let yourself explore too far.
 Slides @ https://go.umd.edu/181015-dcc
 @snap
     
-Note: *Question to the group*: Has anyone ever gone down the Rabbit Hole on Wikipedia? Clicking link after link until you windup far from where you started? 
-
-You can use the works cited and reference pages of things you read to lead you directly to other relevant resources. References are for more than fulfilling a submission requirement or complying with academic integrity standards.
+Note: You can use the works cited and reference pages of things you read to lead you directly to other relevant resources. References are for more than fulfilling a submission requirement or complying with academic integrity standards.
 
 ---
 
@@ -177,14 +177,14 @@ You can use the works cited and reference pages of things you read to lead you d
 
 @ul
 
-- Keep a log of your searches
+- Keep a log of your searches @note[Organize your keywords and results in notebook or a spreadsheet. Recording the URL of *where* and *when* you found a resource will help you in the long run.]
 
 @ul
 
-- Search terms
-- Databases/platforms searched
-- Relevant results
-- Reusing data? [Cite it!](http://best-practices.dataverse.org/data-citation/)
+- Search terms @note[Keep track of your search terms because your research will probably use similar words.]
+- Databases/platforms searched @note[Knowing where you found something is useful for searching for similar materials later.]
+- Relevant results and date accessed @note[If you find something useful, keep track of it. Dates are also useful because you'l need that info for your citations.]
+- Reusing data? [Cite it!](http://best-practices.dataverse.org/data-citation/) @note[If you plan on reusing someone else's data, be sure to generate a citation for it. Attribution is good for us all.]
 
 @ulend
 @ulend
@@ -211,6 +211,8 @@ Disclaimer: I work in data management and I'm a little enthusiastic about DMPs.
 
 Note: DMPTool is a website that hosts templates for various data management plans. While mostly aimed at researchers applying for funding from various grant awarding agencies, DMPs can be a useful tool for thinking through who will have access to your stuff, where your stuff comes from, where your stuff is stored, and where your stuff will live once you're finished with it.
 
+DMPs are useful for project management and project planning.
+
 ---?image=template/img/bg/white.jpg&position=right&size=70% 100%
 @title[Sidebar + Heading]
 
@@ -222,24 +224,38 @@ Note: DMPTool is a website that hosts templates for various data management plan
 <h2>@css[text-black](Where do I find relevant *stuff*?)</h2>
 @snapend
 
+Note: So you've got a strategy, and some search terms, but where do you go to find stuff?
 ---
 
 ### Know Where to Search
 
 @ul
 
-- [UMD Library Catalogue](https://umaryland.on.worldcat.org/advancedsearch)
-- [The Digital Repository at the University of Maryland (DRUM)](https://www.drum.lib.umd.edu)
-- Search specific indexes/databases/publishers
+-Search the catalog and local resources
+- [UMD Library Catalogue](https://umaryland.on.worldcat.org/advancedsearch) @note[This is useful for casting a wide net. The catalog will search local resources, consortial (Inter-Library Loanable) materials, and other items held at various insitutions.]
+- [The Digital Repository at the University of Maryland (DRUM)](https://www.drum.lib.umd.edu) @note[This is where faculty deposit some of their research works. You can find pre-prints and technical reports. Grad students also deposit their theses and dissertations here.]
+
 
 @ulend
-    @ul
 
-    - [Design & Applied Arts Index](https://search.proquest.com/daai/advanced?accountid=14696)
-    - [ACM Digital Library](https://dl-acm-org.proxy-um.researchport.umd.edu/)
-    - [Multidisciplinary Digital Publishing Institute](https://www.mdpi.com)
+@snap[south template-note text-gray]
+Slides @ https://go.umd.edu/181015-dcc
+@snap
 
-    @ulend
+---
+
+### Know Where to Search
+
+@ul
+
+- Search through specific indexes/databases/publishers
+- [Design & Applied Arts Index](https://search.proquest.com/daai/advanced?accountid=14696) @note[The Design & Applied Arts Index makes searchable a variety of scholarly works focused on graphic and industrial design, and a variety of other art and architecture related publications.]
+ - [ACM Digital Library](https://dl-acm-org.proxy-um.researchport.umd.edu/) @note[A great resource when looking for scientific papers related to computer science and technology.]
+- [Multidisciplinary Digital Publishing Institute](https://www.mdpi.com) @note[MDPI publishes a wide variety of interdisciplinary research in open access journals.]
+- [arXiv](https://arxiv.org/) @note[A pre-print archive for physics, math, computer science, stats, and more.]
+- [SocArXiv](https://osf.io/preprints/socarxiv/) @note[A repository of pre-prints for the arts & humanities, social sciences, education, and law.]
+
+@ulend
     
 @snap[south template-note text-gray]
 Slides @ https://go.umd.edu/181015-dcc
@@ -261,12 +277,15 @@ Slides @ https://go.umd.edu/181015-dcc
 Slides @ https://go.umd.edu/181015-dcc
 @snap
 
+Note: Both the Harvard Business Review and the MIT Tech Review publish on modern project management topics, technological developments, and ethics of business and entrepreneurship.
+
 ---
 
 ### Know Where to Search
 
 @ul
 
+- Just @css[text-blue](G)@css[text-pink](o)@css[text-yellow](o)@css[text-blue](g)@css[text-green](l)@css[text-pink](e) it.
 - [Google Scholar](https://www.scholar.google.com)
 - TIP: Set up [Google Alerts](https://www.google.com/alerts) for awesome passive search results delivered right to your inbox.
 
