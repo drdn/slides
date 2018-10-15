@@ -4,25 +4,18 @@ For Data-Based Projects
 
 @size[medium](David Durden, *Data Services Librarian*)
 
----
++++
 
 ### Introduction
 
 +++ @title[Heading + List Body]
 
-@snap[west split-screen-heading span-50]
-Today's Plan
-@snapend
+@snap[west split-screen-heading span-50] Today's Plan @snapend
 
-@snap[east span-45]
-
-@ulsplit-screen-list
+@snap[east span-45] @ulsplit-screen-list
 - Inspiration
--Resources
--Tools
-@ulend
-
-@snapend
+- Resources
+-Tools @ulend @snapend
 
 Note: Apologies for any duplication in material. I was asked to present loosely on the topic of research for data-based projects. Hopefully there is something of relevance for each of you throughout this presentation.
 
