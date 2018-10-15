@@ -30,14 +30,14 @@ Note: I'm going to briefly talk about refining research questions and generating
 
 I do want to apologize in advance for any duplication in material presented here: I was asked to present loosely on the topic of research for data-based projects, so hopefully there is something of relevance for each of you throughout this presentation.
 
-+++?image=template/img/bg/white.jpg&position=left&size=30% 100%
++++?image=template/img/bg/white.jpg&position=right&size=70% 100%
 @title[Sidebar + Heading]
 
 @snap[west text-white]
 @size[3em](1.)
 @snapend
 
-@snap[east span-70]
+@snap[east text-black span-70]
 <h2>Who's doing what?</h2>
 @snapend
 
