@@ -3,7 +3,7 @@
 For Data-Based Projects
 
 @size[medium](David Durden, *Data Services Librarian*)
-
+<br \>
 @size[medium](2018-OCT-15)
 
 ---
