@@ -10,11 +10,19 @@ For Data-Based Projects
 
 ---
 
-### The plan
+@snap[west text-black span-50]
+The plan
+@snapend
 
+@snap[east text-white span-45]
+
+@ol
 - @fa[info-circle] Inspiration
 - @fa[database] Resources
 - @fa[wrench] Tools
+@olend
+
+@snapend
 
 Note: Apologies for any duplication in material. I was asked to present loosely on the topic of research for data-based projects. Hopefully there is something of relevance for each of you throughout this presentation.
 
