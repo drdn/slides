@@ -37,8 +37,8 @@ I do want to apologize in advance for any duplication in material presented here
 @size[3em](1.)
 @snapend
 
-@snap[east text-black span-70]
-<h2>Who's doing what?</h2>
+@snap[east span-70]
+<h2>@css[text-black](Who's doing what?)</h2>
 @snapend
 
 +++
