@@ -1,4 +1,9 @@
 #
+# Logo
+#
+logo : assets/eye.png
+
+#
 # Layout
 #
 layout : center

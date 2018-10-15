@@ -6,23 +6,21 @@ For Data-Based Projects
 
 +++
 
-### Introduction
+### Hi! I'm Dave.
 
+Note: My name is David Durden; I'm a data services librarian for the University Libraries. If you have 
 +++ 
 
-@snap[west split-screen-heading span-50]
-Today's Plan
-@snapend
 
-@snap[east span-45] 
-@ulsplit-screen-list
+### Today's Plan
+
+@ul
 
 - Inspiration
-- Resources
+- Strategy
 - Tools 
 
 @ulend 
-@snapend
 
 Note: Apologies for any duplication in material. I was asked to present loosely on the topic of research for data-based projects. Hopefully there is something of relevance for each of you throughout this presentation.
 
@@ -53,6 +51,8 @@ Conferences often publish their proceedings or make presentations/short-/long-pa
 - [Maryland Institute for Technology in the Humanities (MITH)]()
 - [Human-Computer Interaction Laboratory]()
 - [Research institutes and centers on campus](https://www.umd.edu/centers-and-institutes)
+
++++
 
 ### Strategize and Search
 
