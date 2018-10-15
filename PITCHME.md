@@ -8,7 +8,7 @@ For Data-Based Projects
 
 ### Introduction
 
----
++++?image=template/img/bg/black.jpg&position=right&size=50% 100% @title[Heading + List Body]
 
 @snap[west split-screen-heading text-black span-50]
 The plan
