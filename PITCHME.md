@@ -40,7 +40,7 @@ I do want to apologize in advance for any duplication in material presented here
 
 Let's get started.
 
-+++?image=template/img/bg/white.jpg&position=right&size=70% 100%
+---?image=template/img/bg/white.jpg&position=right&size=70% 100%
 @title[Sidebar + Heading]
 
 @snap[west text-white]
@@ -161,6 +161,8 @@ Don't let yourself explore too far.
 [Relevant xkcd (well, sort of. It was *actually* published in *TIME*.)](https://timedotcom.files.wordpress.com/2015/11/munroe-2a.jpg?w=600)
 @snapend
 
+---
+
 ### Use References in Relevant Papers
 
 @ul
@@ -212,6 +214,8 @@ Even if you aren't performing lab-based research, you can apply the organization
 @snap[east span-70]
 <h2>@css[text-black](Where do I find relevant *stuff*?)</h2>
 @snapend
+
+---
 
 ### Know Where to Search
 
