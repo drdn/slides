@@ -83,7 +83,7 @@ Conferences often publish their proceedings or make presentations/short-/long-pa
 
 - [Maryland Institute for Technology in the Humanities (MITH)](https://mith.umd.edu/research/)
 - [Human-Computer Interaction Laboratory](http://hcil.umd.edu/research-areas/)
-- [Research institutes and centers on campus](https://www.umd.edu/centers-and-institutes)
+- [238 campus research centers](https://www.umd.edu/centers-and-institutes)
 
 @ulend
 
@@ -103,18 +103,18 @@ If these centers don't fit your idea, you can browse all 238 centers on campus a
 @snapend
 
 @snap[east span-70]
-<h2>@css[text-black](How do I find relevant *stuff*)</h2>
+<h2>@css[text-black](How do I find relevant *stuff*?)</h2>
 @snapend
 
 +++
 
-### Strategize *then* Search
+### Strategize => Search => Refine
 
 @ul 
 
 - What are you really looking for?
 - Dedicate time for random exploration
-- Gather some ideas
+- Collect some ideas
 - Discover some trends
 - Expand your vocabulary
 
@@ -122,29 +122,62 @@ If these centers don't fit your idea, you can browse all 238 centers on campus a
 
 Note: 
 
+Take some time to develop a search strategy that works for you. 
+
 1. Cast a wide net first and then refine, e.g., broad and shallow vs. narrow and deep.
 
-2. Your initial exploration phase may be painful. Avoid the urge to *pre-crastinate*.
-3. Your initial ideas should be conceptual, theoretical, high-level
-4. Look for thematic trends in seemingly disparate or unrelated topics
-5. Reduce these themes into a set of core vocabulary terms--these will become your search keywords
+2. Your initial search may be painfully unproductive. Avoid the urge to *pre-crastinate*.
+ 
+3. Your initial ideas should be conceptual, theoretical, high-level. From these concepts you can drill-down and get specific. 
+
+4. Look for and analyze thematic trends in seemingly disparate or unrelated topics. Trends can help you both decide what to do, and what *not* to do.
+
+5. Reduce these themes and ideas into a set of core vocabulary terms--these will become your search keywords. Use a thesaurus to find word variants; use official thesauri to discover how different indexes and catalogs are organizing information.
+
+--- 
+
+### Example Vocabularies
+
+@ul
+    
+- [Library of Congress Subject Headings](http://id.loc.gov/authorities/subjects.html)
+- [Getty Institute Vocabularies](http://www.getty.edu/research/tools/vocabularies/)
+- Articles and search results often include subject terms and keywords!
+
+@ulend
+
+Note: The LoC subject headings are how most library systems in the United States arrange and describe their holdings. There is a bit of a learning curve regarding how to best navigate this resource, but it can be valuable. 
+
+The Getty has developed several controlled vocabularies designed for the graphic arts and architecture. 
+
+Whenever you find a relevant article in EBSCO or ProQuest, you will be able to see the search terms associated with the results. Keep track of these terms when collecting articles. Some publications, such as those published in the Association for Computing Machinery (ACM) format will usually include subject terms and keywords alongside the abstract.
 
 +++
 
-### Use references to your advantage
+### Use References in Relevant Papers
 
 @ul
 
-- Works cited = more articles for you
+- Works cited == more sources for you
 - Search the works of a single author
+- Look for annotated and/or published bibliographies
+
+@ulend
+    @ul
+    - *HINT:* Ask your reference librarian to help you find relevant materials!
+    @ulend
+    
+Note: *Question to the group*: Has anyone ever gone down the Rabbit Hole on Wikipedia? Clicking link after link until you windup far from where you started? 
+
+You can use the works cited and reference pages of things you read to lead you directly to other relevant resources. References are for more than fulfilling a submission requirement or complying with academic integrity standards.
 
 +++
 
-### Document your adventure
+### Document Your Adventure
 
 @ul
 
-- Keep a search term log
+- Keep log of your searches
 
 @ulend
     @ul
@@ -155,9 +188,18 @@ Note:
 
     @ulend
 @ul
-- Reusing data? Cite it!
+
+- Reusing data? [Cite it!](http://best-practices.dataverse.org/data-citation/)
 
 @ulend
+
+@snap[south template-note text-gray]
+[A nifty guide to keeping a lab notebook](https://colinpurrington.com/tips/lab-notebooks)
+@snap
+
+Note: Documenting your work is probably the most difficult part of research. Ask yourself: *"If I were to revisit this project a year from now, will I be able to pick up where I left off?"*
+
+Even if you aren't performing lab-based research, you can apply 
 
 +++
 
