@@ -12,7 +12,7 @@
 
 @snap[south template-note text-gray]
 Slides @ https://go.umd.edu/181015-dcc
-@snap
+@snapend
 
 Note: My name is David Durden; I'm the Data Services Librarian for the University Libraries. If you have ever interacted with a librarian here on campus (which you all should have, *right?*), chances are they were working in Reference. 
 
@@ -32,7 +32,7 @@ Unlike those librarians which you *should* have met, I work down in the basement
 
 @snap[south template-note text-gray]
 Slides @ https://go.umd.edu/181015-dcc
-@snap
+@snapend
 
 Note: I'm going to briefly talk about refining research questions and generating search terms, and I'll introduce some places to start looking for resources as well as some entry-level data tools.
 
@@ -69,7 +69,7 @@ Note: One approach is to answering this question is to take a look at what vario
 
 @snap[south template-note text-gray]
 Slides @ https://go.umd.edu/181015-dcc
-@snap
+@snapend
 
 ---
 
@@ -85,7 +85,7 @@ Slides @ https://go.umd.edu/181015-dcc
 
 @snap[south template-note text-gray]
 Slides @ https://go.umd.edu/181015-dcc
-@snap
+@snapend
 
 Note:
 
@@ -120,7 +120,7 @@ Note: Great question.
 
 @snap[south template-note text-gray]
 Slides @ https://go.umd.edu/181015-dcc
-@snap
+@snapend
 
 Note: 
 
@@ -167,7 +167,7 @@ Note: *Question to the group*: Has anyone ever gone down the Rabbit Hole on Wiki
 
 @snap[south template-note text-gray]
 Slides @ https://go.umd.edu/181015-dcc
-@snap
+@snapend
     
 Note: You can use the works cited and reference pages of things you read to lead you directly to other relevant resources. References are for more than fulfilling a submission requirement or complying with academic integrity standards.
 
@@ -191,7 +191,7 @@ Note: You can use the works cited and reference pages of things you read to lead
 
 @snap[south template-note text-gray]
 [A nifty guide to keeping a lab notebook.](https://colinpurrington.com/tips/lab-notebooks)
-@snap
+@snapend
 
 Note: Documenting your work is probably the most difficult part of research. Ask yourself: *"If I were to revisit this project a year from now, will I be able to pick up where I left off?"*
 
@@ -207,7 +207,7 @@ Login at [https://dmptool.org]()
 
 @snap[south template-note text-gray]
 Disclaimer: I work in data management and I'm a little enthusiastic about DMPs.
-@snap
+@snapend
 
 Note: DMPTool is a website that hosts templates for various data management plans. While mostly aimed at researchers applying for funding from various grant awarding agencies, DMPs can be a useful tool for thinking through who will have access to your stuff, where your stuff comes from, where your stuff is stored, and where your stuff will live once you're finished with it.
 
@@ -240,7 +240,7 @@ Note: So you've got a strategy, and some search terms, but where do you go to fi
 
 @snap[south template-note text-gray]
 Slides @ https://go.umd.edu/181015-dcc
-@snap
+@snapend
 
 ---
 
@@ -259,7 +259,7 @@ Slides @ https://go.umd.edu/181015-dcc
     
 @snap[south template-note text-gray]
 Slides @ https://go.umd.edu/181015-dcc
-@snap
+@snapend
 
 ---
 
@@ -275,7 +275,7 @@ Slides @ https://go.umd.edu/181015-dcc
 
 @snap[south template-note text-gray]
 Slides @ https://go.umd.edu/181015-dcc
-@snap
+@snapend
 
 Note: Both the Harvard Business Review and the MIT Tech Review publish on modern project management topics, technological developments, and ethics of business and entrepreneurship.
 
@@ -293,19 +293,23 @@ Note: Both the Harvard Business Review and the MIT Tech Review publish on modern
 
 @snap[south template-note text-gray]
 Slides @ https://go.umd.edu/181015-dcc
-@snap
+@snapend
 
 ---
 
 ### Know How to Search
 
+@ul
+
 - Boolean operators (AND, NOT, OR)
 - Boolean values (True/False)
 - Platform specific search operators (e.g., Google, ProQuest, WorldCat)
 
+@ulend
+
 @snap[south template-note text-gray]
 [Relevant slides for advanced searching in Google](https://drdn.github.io/presentations/20180214-g-search-strategy.pdf)
-@snap
+@snapend
 
 Note: There's a separate logic to search academic and library databases. Google works really well with both natural language and boolean searching, but library databases will almost always work better with logical queries.
 
@@ -324,7 +328,7 @@ Note: There's a separate logic to search academic and library databases. Google 
 
 @snap[south template-note text-gray]
 Slides @ https://go.umd.edu/181015-dcc
-@snap
+@snapend
 
 ---
 
@@ -337,9 +341,11 @@ Slides @ https://go.umd.edu/181015-dcc
 - [Free Music Archive](http://freemusicarchive.org/) @note[An archive of free music. It's pretty sweet.]
 - [UC Irvine Machine Learning Library](http://archive.ics.uci.edu/ml/index.php) @note[A collection of machine learning ready datasets. If ML is your thing, this is a great collection of resources.]
 
+@ulend
+
 @snap[south template-note text-gray]
 Slides @ https://go.umd.edu/181015-dcc
-@snap
+@snapend
 
 ---
 
@@ -355,7 +361,7 @@ Slides @ https://go.umd.edu/181015-dcc
 
 @snap[south template-note text-gray]
 Slides @ https://go.umd.edu/181015-dcc
-@snap
+@snapend
 
 ---?image=template/img/bg/white.jpg&position=right&size=70% 100%
 @title[Sidebar + Heading]
@@ -367,6 +373,8 @@ Slides @ https://go.umd.edu/181015-dcc
 @snap[east span-70]
 <h2>@css[text-black](How do I keep myself from getting overwhelmed?)</h2>
 @snapend
+
+Note: So, I admit, I'm probably not helping you here.
 
 ---
 
@@ -380,10 +388,12 @@ Substitute *literally any website* for *news site*.
 [Relevant xkcd no.1411](https://imgs.xkcd.com/comics/loop.png)
 @snapend
 
-Note: Technology can be excruciatingly distracting. Don't trick yourself into procrastinating by learning or being 'productive'. Some examples of this are:
+Note: Technology can be excruciatingly distracting. Don't trick yourself into procrastinating by learning or being 'productive'. Learn to recognize the signs.
+
+Some examples of this are:
 
 - cleaning your apartment/dorm/house to avoid work
-- learning a cool, but irrelevant skill (e.g., the case of [Donald Knuth writing a book and inventing TeX](https://en.wikipedia.org/wiki/TeX#History) because he didn't like what his book looked like)
+- learning a cool, but irrelevant skill (e.g., the case of [Donald Knuth writing a book and inventing TeX](https://en.wikipedia.org/wiki/TeX#History) because he didn't like what his book looked like in the galley proofs)
 
 ---
 
@@ -391,11 +401,15 @@ Note: Technology can be excruciatingly distracting. Don't trick yourself into pr
 
 [Pre-crastination](https://www.nytimes.com/2016/01/17/opinion/sunday/why-i-taught-myself-to-procrastinate.html) vs. procrastination.
 
-Note: [pre-crastination](http://journals.sagepub.com/doi/abs/10.1177/0956797614532657) is referred to as the "hastening of subgoal completion at the expense of extra physical effort." 
-
 @snap[south template-note text-gray]
 Slides @ https://go.umd.edu/181015-dcc
-@snap
+@snapend
+
+Note: [pre-crastination](http://journals.sagepub.com/doi/abs/10.1177/0956797614532657) is the "hastening of subgoal completion at the expense of extra physical effort." Otherwise known as the urge to start a task and complete it immediately.
+
+Figure out which
+
+
 
 ---
 
@@ -418,14 +432,18 @@ Note: Ask yourself, *"do I rush to complete things or do I avoid doing them all 
 
 ### Tools for Managing Research and Data
 
+@ul
+
 - [Jupyter Notebooks](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook) @note[Jupyter Notebooks are an integrated environment for putting code, text, and graphics all in one place. This link will take you to a datacamp tutorial on setting up Jupyter in Python.]
 - [OpenRefine](http://openrefine.org/) @note[OpenRefine is an excellent way to explore, clean, transform, and restructure data in a graphic interface. Granted, there are more technical ways to do a lot of way OpenRefine accomplishes (e.g., Python's Pandas Library or R). OpenRefine runs in a web browser and lets you interact with substantially more data than Excel (it also won't reformat or overwrite your existing data).]
 - [Zotero](https://www.zotero.org/) @note[Zotero is a free tool for collecting and organizing citations and full-text research materials. If used correctly, you can organize by project, format citations, and have access to pdfs of collected research all in one place. Other options exist, such as EndNote and Mendeley.]
 - Git and Github @note[Version control is your friend. However, Github is open and accessible to the entire web, so think about the possibility of having your work scooped before committing everything to GH. github does have a private repository option, but it comes with a monthly fee.]
 
+@ulend
+
 @snap[south template-note text-gray]
 Slides @ https://go.umd.edu/181015-dcc
-@snap
+@snapend
 
 ---
 
@@ -442,5 +460,5 @@ Slides @ https://go.umd.edu/181015-dcc
 @snapend
 
 @snap[east]
-<h3>Contact info</h3>
+<h3>Thanks!</h3>
 @snapend
