@@ -8,25 +8,25 @@ For Data-Based Projects
 
 ### Introduction
 
-+++?image=template/img/bg/black.jpg&position=right&size=50% 100% @title[Heading + List Body]
++++
 
-@snap[west split-screen-heading text-black span-50]
-The plan
+@snap[west span-50]
+## The plan
 @snapend
 
-@snap[east text-white span-45]
+@snap[east span-45]
 
-@olsplit-screen-list
-- @fa[info-circle] Inspiration
-- @fa[database] Resources
-- @fa[wrench] Tools
-@olend
+@ulsplit-screen-list
+- Inspiration
+-Resources
+-Tools
+@ulend
 
 @snapend
 
 Note: Apologies for any duplication in material. I was asked to present loosely on the topic of research for data-based projects. Hopefully there is something of relevance for each of you throughout this presentation.
 
----
++++
 
 ### Who's doing what?
 
@@ -105,7 +105,7 @@ Note:
 
 @ulend
 
----
++++
 
 ### Where to search
 
@@ -159,7 +159,7 @@ Note:
 
     @ulend
 
----
++++
 
 ### Relevant xkcd/2054
 
