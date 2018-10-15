@@ -6,7 +6,11 @@ For Data-Based Projects
 
 ---
 
-### Intro
+### Introduction
+
+---
+
+### The plan
 
 - @fa[info-circle] Inspiration
 - @fa[database] Resources
@@ -16,12 +20,13 @@ Note: Apologies for any duplication in material. I was asked to present loosely 
 
 ---
 
-## Who's doing what?
+### Who's doing what?
 
 @ul
 
-- Ideo
-- Design Incubation Centre
+- [Ideo](https://www.ideo.com/)
+- [Y Combinator](https://blog.ycombinator.com/)
+- [Design Incubation Centre](http://www.designincubationcentre.com/)
 - Relevant conferences
 - Others?
 
@@ -31,7 +36,15 @@ Note: Look at institutes and companies currently doing design work (*even if the
 
 Conferences often publish their proceedings or make presentations/short-/long-papers available (*this is a great place to get the most current research and work in a given field*)
 
----
++++
+
+### Who's doing what at UMD?
+
+@ul
+
+- [Maryland Institute for Technology in the Humanities (MITH)]()
+- [Human-Computer Interaction Laboratory]()
+- [Research institutes and centers on campus](https://www.umd.edu/centers-and-institutes)
 
 ### Strategize and Search
 
