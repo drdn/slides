@@ -1,9 +1,9 @@
 @snap[west]
-# Research Strategies
 
-For Data-Based Projects
+<h1>Research Strategies</h1>
+<h3>For Data-Based Projects</h3>
+@size[medium](David Durden, <i>Data Services Librarian</i>)
 
-@size[medium](David Durden, *Data Services Librarian*)
 @snapend
 
 +++
