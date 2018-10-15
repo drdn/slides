@@ -338,6 +338,17 @@ Slides @ https://go.umd.edu/181015-dcc
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) @note[This is a huge collection of public datasets arranged by topic. While public, not all of the datasets are free.]
 - [Free Music Archive](http://freemusicarchive.org/) @note[An archive of free music. It's pretty sweet.]
 - [UC Irvine Lachine Learning Library](http://archive.ics.uci.edu/ml/index.php) @note[A collection of machine learning ready datasets. If ML is your thing, this is a great collection of resources.]
+
+@snap[south template-note text-gray]
+Slides @ https://go.umd.edu/181015-dcc
+@snap
+
+---
+
+### MORE DATA.
+
+- [US Building Footprints](https://github.com/Microsoft/USBuildingFootprints/)
+- [A map of every building in America (based on the dataset above)](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html)
 - [Internet Archive](https://archive.org) @note[Not presented as a dataset, but can be used with various metadata harvesting methods to generate datasets. Python has a module for data mining the Internet Archive and the [Programming Historian](https://programminghistorian.org/en/lessons/data-mining-the-internet-archive) has a tutorial on how to use it.]
 
 @ulend
