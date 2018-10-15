@@ -10,13 +10,13 @@ For Data-Based Projects
 
 ---
 
-@snap[west text-black span-50]
+@snap[west split-screen-heading text-black span-50]
 The plan
 @snapend
 
 @snap[east text-white span-45]
 
-@ol
+@olsplit-screen-list
 - @fa[info-circle] Inspiration
 - @fa[database] Resources
 - @fa[wrench] Tools
