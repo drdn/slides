@@ -1,8 +1,10 @@
+@snap[west]
 # Research Strategies
 
 For Data-Based Projects
 
 @size[medium](David Durden, *Data Services Librarian*)
+@snapend
 
 +++
 
