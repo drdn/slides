@@ -16,7 +16,7 @@ footnote: "[CC-BY-SA//2018-Oct-15//David Durden]"
 #
 # Look-and-Feel
 #
-theme : black
+theme : night
 theme-override : template/css/PITCHME.css
 
 #
