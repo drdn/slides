@@ -62,7 +62,7 @@ Note: One approach is to answering this question is to take a look at what vario
 - [Ideo](https://www.ideo.com/) @note[Ideo is a company who pioneered in the field of design thinking. They emphasize human-centered design through collaboration, innovation, and creativity. *You may have heard of them.* The Ideo website features past projects, blogs that discuss approaches, successes, and failures, and some tools to get you started in design thinking.]
 - [Y Combinator](https://blog.ycombinator.com/) @note[Y Combinator technically provides seed funding for start-ups. YC emphasizes technology, especially in Silicon Valley. However, the YC blog is a valuable resource for learning about the start-up mentality and being successful with technology.]
 - [Design Incubation Centre](http://www.designincubationcentre.com/) @note[The Design Incubation Center is housed at the National University of Singapore. The DIC is a design research laboratory and the DIC website has a lot of creative focused research. I'm not sure how useful it is as a resource or topic generator, but I did find when running some basic searches for design cultures.]
-- [Library of Congress Labs](https://labs.loc.gov/) @note[LC Labs is a great resource for getting familiar with the digital collection of the Library of Congress. LC Labs encourages people to utilize their materials in their teaching and projects.]
+- [Library of Congress Labs](https://labs.loc.gov/) @note[LC Labs is a great resource for getting familiar with the digital collection of the Library of Congress. LC Labs encourages people to utilize their materials in their teaching and projects.]ss
 - Relevant conferences? @note[Conferences often publish their proceedings or make presentations/short-/long-papers available (*this is a great place to get the most current research and work in a given field*) Depending on what your project is, and what your personal field of study is, the conferences that may appeal to you is highly variable. If you don't know what conferences exist in your field, ask a professor sometime.]
 
 @ulend
@@ -71,25 +71,15 @@ Note: One approach is to answering this question is to take a look at what vario
 Slides @ https://go.umd.edu/181015-dcc
 @snap
 
-Note: 
-
-
-
-
-
-
-
-Conferences often publish their proceedings or make presentations/short-/long-papers available (*this is a great place to get the most current research and work in a given field*) Depending on what your project is, and what your personal field of study is, the conferences that may appeal to you is highly variable. If you don't know what conferences exist in your field, ask a professor sometime.
-
 ---
 
 ### Inspiring Examples at UMD
 
 @ul
 
-- [Maryland Institute for Technology in the Humanities (MITH)](https://mith.umd.edu/research/)
+- [Maryland Institute for Technology in the Humanities (MITH)](https://mith.umd.edu/research/) @note[Two centers that I think are appropriate for the DCC would be MITH and HCIL -- both are physically located in Hornbake Library.]
 - [Human-Computer Interaction Laboratory](http://hcil.umd.edu/research-areas/)
-- [238 campus research centers](https://www.umd.edu/centers-and-institutes)
+- [238 campus research centers](https://www.umd.edu/centers-and-institutes) @note[If two these centers don't fit your idea, you can browse all 238 centers on campus at the link provided in the slides.]
 
 @ulend
 
@@ -100,10 +90,6 @@ Slides @ https://go.umd.edu/181015-dcc
 Note:
 
 The University you are currently attending also has a wealth of cutting-edge research and most institutes and research centers across campus make their research available through their websites.
-
-Two centers that I think are appropriate for the DCC would be MITH and HCIL -- both are physically located in Hornbake Library.
-
-If these centers don't fit your idea, you can browse all 238 centers on campus at the link provided in the slides.
 
 ---?image=template/img/bg/white.jpg&position=right&size=70% 100%
 @title[Sidebar + Heading]
@@ -116,17 +102,19 @@ If these centers don't fit your idea, you can browse all 238 centers on campus a
 <h2>@css[text-black](How do I find relevant *stuff*?)</h2>
 @snapend
 
+Note: Great question.
+
 ---
 
 ### Strategize => Search => Refine
 
 @ul 
 
-- What are you really looking for?
-- Dedicate time for random exploration
-- Collect some ideas
-- Discover some trends
-- Expand your vocabulary
+- What are you really looking for? @note[Cast a wide net first and then refine, e.g., broad and shallow vs. narrow and deep.]
+- Dedicate time for random exploration @note[Your initial search may be painfully unproductive. Avoid the urge to *pre-crastinate*. We'll discuss this more, later.]
+- Collect some ideas @note[Your initial ideas should be conceptual, theoretical, high-level. From these concepts you can drill-down and get specific.]
+- Discover some trends @note[Look for and analyze thematic trends in seemingly disparate or unrelated topics. Trends can help you both decide what to do, and what *not* to do.]
+- Expand your vocabulary @note[Reduce these themes and ideas into a set of core vocabulary terms--these will become your search keywords. Use a thesaurus to find word variants; use official thesauri to discover how different indexes and catalogs are organizing information.]
 
 @ulend
 
@@ -136,18 +124,7 @@ Slides @ https://go.umd.edu/181015-dcc
 
 Note: 
 
-Take some time to develop a search strategy that works for you. Your experience will vary. 
-
-1. Cast a wide net first and then refine, e.g., broad and shallow vs. narrow and deep.
-
-2. Your initial search may be painfully unproductive. Avoid the urge to *pre-crastinate*.
- 
-3. Your initial ideas should be conceptual, theoretical, high-level. From these concepts you can drill-down and get specific. 
-
-4. Look for and analyze thematic trends in seemingly disparate or unrelated topics. Trends can help you both decide what to do, and what *not* to do.
-
-5. Reduce these themes and ideas into a set of core vocabulary terms--these will become your search keywords. Use a thesaurus to find word variants; use official thesauri to discover how different indexes and catalogs are organizing information.
-6.  Use citation managers liek Zotero, Mendeley, EndNote (if you have a subscription), or BibTex (if you're into that sorta thing.)
+Take some time to develop a search strategy that works for you. Your experience will vary. Using citation managers like Zotero, Mendeley, EndNote (if you have a subscription), or BibTex (if you're into that sorta thing.) 
 
 +++ 
 
