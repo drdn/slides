@@ -8,10 +8,10 @@ For Data-Based Projects
 
 ### Introduction
 
-+++
++++ @title[Heading + List Body]
 
-@snap[west span-50]
-## The plan
+@snap[west split-screen-heading span-50]
+Today's Plan
 @snapend
 
 @snap[east span-45]
