@@ -26,22 +26,31 @@ Unlike those librarians which you *should* have met, I work down in the basement
 
 @ulend 
 
+@snap[south template-note text-gray]
+Slides @ https://ter.ps/
+@snap
+
 Note: I'm going to briefly talk about refining research questions and generating search terms, and I'll introduce some places to start looking for resources as well as some entry-level data tools.
 
 I do want to apologize in advance for any duplication in material presented here: I was asked to present loosely on the topic of research for data-based projects, so hopefully there is something of relevance for each of you throughout this presentation.
+
+Let's get started.
 
 +++?image=template/img/bg/white.jpg&position=right&size=70% 100%
 @title[Sidebar + Heading]
 
 @snap[west text-white]
-@size[3em](1.)
+<h2>Q:</h2>
 @snapend
 
 @snap[east span-70]
 <h2>@css[text-black](Who's doing what?)</h2>
 @snapend
 
+Note: Look at institutes and companies currently doing design work (*even if they are at other Universities or in the public sector*)
 +++
+
+### Examples
 
 @ul
 
@@ -53,7 +62,7 @@ I do want to apologize in advance for any duplication in material presented here
 
 @ulend
 
-Note: Look at institutes and companies currently doing design work (*even if they are at other Universities or in the public sector*)
+
 
 Conferences often publish their proceedings or make presentations/short-/long-papers available (*this is a great place to get the most current research and work in a given field*)
 
