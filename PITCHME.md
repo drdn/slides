@@ -159,6 +159,7 @@ Don't let yourself explore too far.
 
 @snap[south template-note text-gray]
 [Relevant xkcd (well, sort of. It was *actually* published in *TIME*.)](https://timedotcom.files.wordpress.com/2015/11/munroe-2a.jpg?w=600)
+@snapend
 
 ### Use References in Relevant Papers
 
