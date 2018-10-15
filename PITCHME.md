@@ -22,7 +22,7 @@ Unlike those librarians which you *should* have met, I work down in the basement
 
 ### Roadmap
 
-@ul
+@ul[](false)
 
 - Inspiration
 - Strategy
@@ -51,7 +51,7 @@ Let's get started.
 <h2>@css[text-black](Who's doing what?)</h2>
 @snapend
 
-Note: One approach is to take a look at what various institutes and companies are currently doing in regard to design work (*even if they are at other Universities or in the public sector*)
+Note: One approach is to answering this question is to take a look at what various institutes and companies are currently doing in regard to design work (*even if they are at other Universities or in the public sector*) Ask yourself: Who is doing work in *x*? What things are related to *y*?
 
 ---
 
@@ -59,11 +59,11 @@ Note: One approach is to take a look at what various institutes and companies ar
 
 @ul
 
-- [Ideo](https://www.ideo.com/)
-- [Y Combinator](https://blog.ycombinator.com/)
-- [Design Incubation Centre](http://www.designincubationcentre.com/)
-- [Library of Congress Labs](https://labs.loc.gov/)
-- Relevant conferences?
+- [Ideo](https://www.ideo.com/) @note[Ideo is a company who pioneered in the field of design thinking. They emphasize human-centered design through collaboration, innovation, and creativity. *You may have heard of them.* The Ideo website features past projects, blogs that discuss approaches, successes, and failures, and some tools to get you started in design thinking.]
+- [Y Combinator](https://blog.ycombinator.com/) @note[Y Combinator technically provides seed funding for start-ups. YC emphasizes technology, especially in Silicon Valley. However, the YC blog is a valuable resource for learning about the start-up mentality and being successful with technology.]
+- [Design Incubation Centre](http://www.designincubationcentre.com/) @note[The Design Incubation Center is housed at the National University of Singapore. The DIC is a design research laboratory and the DIC website has a lot of creative focused research. I'm not sure how useful it is as a resource or topic generator, but I did find when running some basic searches for design cultures.]
+- [Library of Congress Labs](https://labs.loc.gov/) @note[LC Labs is a great resource for getting familiar with the digital collection of the Library of Congress. LC Labs encourages people to utilize their materials in their teaching and projects.]
+- Relevant conferences? @note[Conferences often publish their proceedings or make presentations/short-/long-papers available (*this is a great place to get the most current research and work in a given field*) Depending on what your project is, and what your personal field of study is, the conferences that may appeal to you is highly variable. If you don't know what conferences exist in your field, ask a professor sometime.]
 
 @ulend
 
@@ -73,11 +73,11 @@ Slides @ https://go.umd.edu/181015-dcc
 
 Note: 
 
-Ideo is a company who pioneered in the field of design thinking. They emphasize human-centered design through collaboration, innovation, and creativity. *You may have heard of them.* The Ideo website features past projects, blogs that discuss approaches, successes, and failures, and some tools to get you started in design thinking. 
 
-Y Combinator technically provides seed funding for start-ups. YC emphasizes technology, especially in Silicon Valley. However, the YC blog is a valuable resource for learning about the start-up mentality and being successful with technology. 
 
-The Design Incubation Center is housed at the National University of Singapore. The DIC is a design research laboratory and the DIC website has a lot of creative focused research.
+
+
+
 
 Conferences often publish their proceedings or make presentations/short-/long-papers available (*this is a great place to get the most current research and work in a given field*) Depending on what your project is, and what your personal field of study is, the conferences that may appeal to you is highly variable. If you don't know what conferences exist in your field, ask a professor sometime.
 
