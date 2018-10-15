@@ -2,9 +2,7 @@
 
 For Data-Based Projects
 
-@size[medium](David Durden, *Data Services Librarian*)
-<br \>
-@size[medium](2018-OCT-15)
+@size[medium](David Durden, *Data Services Librarian*)<br />@size[medium](2018-OCT-15)
 
 ---
 
@@ -12,7 +10,7 @@ For Data-Based Projects
 
 - @fa[info-circle] Inspiration
 - @fa[database] Resources
-- @fa[toolbox] Toolkit
+- @fa[wench] Toolkit
 
 Note: Apologies for any duplication in material. I was asked to present loosely on the topic of research for data-based projects. Hopefully there is something of relevance for each of you throughout this presentation.
 ---
