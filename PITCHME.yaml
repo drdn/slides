@@ -1,17 +1,36 @@
+#
 # Layout
-layout : center-left
+#
+layout : center
 
+#
 # Footnote
+#
 footnote: "[CC-BY-SA//2018-Oct-15//David Durden]"
 
+#
 # Look-and-Feel
-theme : black
-highlight : ir-black
+#
+theme : simple
+theme-override : template/css/PITCHME.css
 
+#
+# Hightlight (Code) Setting
+#
+highlight : atom-one-dark
+
+#
 # Behavior
+#
+
 transition : none
+#
+# Published?
+#
 published : true
 
+#
 # Plugins
+#
 charts : true
 mathjax : TeX-AMS_HTML-full
