@@ -8,11 +8,13 @@
 
 +++
 
-### Hi! I'm Dave.
+<h3>Hi!<br />I'm Dave.</h3>
 
-Note: My name is David Durden; I'm a data services librarian for the University Libraries. If you have 
+Note: My name is David Durden; I'm the Data Services Librarian for the University Libraries. If you have ever interacted with a librarian here on campus (which you all should have, *right?*), chances are they were working in Reference. 
+
+Unlike those librarians which you *should* have met, I work down in the basement of McKeldin Library. I deal primarily with digital curation, data archiving, and data management. 
+ 
 +++ 
-
 
 ### Today's Plan
 
@@ -24,11 +26,22 @@ Note: My name is David Durden; I'm a data services librarian for the University 
 
 @ulend 
 
-Note: Apologies for any duplication in material. I was asked to present loosely on the topic of research for data-based projects. Hopefully there is something of relevance for each of you throughout this presentation.
+Note: I'm going to briefly talk about refining research questions and generating search terms, and I'll introduce some places to start looking for resources as well as some entry-level data tools.
+
+I do want to apologize in advance for any duplication in material presented here: I was asked to present loosely on the topic of research for data-based projects, so hopefully there is something of relevance for each of you throughout this presentation.
+
++++?image=template/img/bg/white.jpg&position=left&size=30% 100%
+@title[Sidebar + Heading]
+
+@snap[west text-white]
+@size[3em](1.)
+@snapend
+
+@snap[east span-70]
+<h2>Who's doing what?</h2>
+@snapend
 
 +++
-
-### Who's doing what?
 
 @ul
 
