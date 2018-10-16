@@ -451,8 +451,8 @@ Note: Ask yourself, *"do I rush to complete things or do I avoid doing them all 
 
 @snap[west]
 @css[contact-name](David Durden)<br>
-@fa[twitter-square text-blue pad-right-icon]@css[twitter-handle text-blue](@davedrdn)<br>
-@fa[github-square text-purple pad-right-icon]@css[git-handle text-purple](drdn)<br>
+<!--@fa[twitter-square text-blue pad-right-icon]@css[twitter-handle text-blue](@davedrdn)<br>-->
+<!--@fa[github-square text-purple pad-right-icon]@css[git-handle text-purple](drdn)<br>-->
 @fa[envelope-o pad-right-icon]@css[contact-email](durden@umd.edu)
 @snapend
 
