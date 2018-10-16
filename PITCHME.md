@@ -143,7 +143,7 @@ Take some time to develop a search strategy that works for you. Your experience 
 
 Don't let yourself explore too far.
 
-![xkcd/time](https://timedotcom.files.wordpress.com/2015/11/munroe-2a.jpg?w=600)
+![xkcd/time](assets/munroe-2a.jpg)
 
 @snap[south template-note text-gray]
 [Relevant xkcd (well, sort of. It was *actually* published in *TIME*.)](https://timedotcom.files.wordpress.com/2015/11/munroe-2a.jpg?w=600)
