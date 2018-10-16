@@ -49,7 +49,6 @@ Let's get started.
 
 @snap[east span-70]
 <h2>@css[text-black](Who's doing what?)</h2>
-@snapend
 
 Note: One approach is to answering this question is to take a look at what various institutes and companies are currently doing in regard to design work (*even if they are at other Universities or in the public sector*) Ask yourself: Who is doing work in *x*? What things are related to *y*?
 
